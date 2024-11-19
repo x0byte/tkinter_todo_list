@@ -22,13 +22,13 @@ This project was created for purely learning purposes to gain a better understan
     Clone or download the repository.
     Make sure Python 3.x is installed on your machine.
     Install Tkinter if it's not already installed (it usually comes pre-installed with Python).
-    Run the todo_app.py file using Python.
+    Run the main.py file using Python.
 
 ## Running the App:
 
 To run the app, simply execute the following command:
 ```
-python todo_app.py
+python3 main.py
 ```
 
 ## Contributing:
